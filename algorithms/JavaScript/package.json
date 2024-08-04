@@ -1,0 +1,32 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Data structure and Algorithm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "build": "node src/index.js",
+    "test": "echo 'Doesn't have test'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-google": "^0.14.0",
+    "prettier": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushalshah-98/data-structure.git"
+  },
+  "keywords": [
+    "DSA",
+    "Algorithm",
+    "JavaScript"
+  ],
+  "author": "Kaushal Shah",
+  "license": "MIT",
+  "homepage": "https://github.com/kaushalshah-98/data-structure#readme"
+}
