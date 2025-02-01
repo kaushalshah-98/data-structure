@@ -57,7 +57,8 @@ Output: i
 
 ## Implementation
 
-- [JavaScript](https://github.com/MakeContributions/DSA/blob/main/algorithms/JavaScript/src/searching/linear-search.js)
+- [JavaScript](../../../algorithms/JavaScript/src/searching/linear-search.js)
+
 
 ## Video URL
 
